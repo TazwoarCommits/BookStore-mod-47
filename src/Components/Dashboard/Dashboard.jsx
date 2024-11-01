@@ -3,7 +3,7 @@
 const Dashboard = () => {
     return (
         <div>
-            <p>tora shob mara kha</p>
+            <p>DashBoard</p>
         </div>
     );
 };
